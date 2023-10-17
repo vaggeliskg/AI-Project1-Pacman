@@ -181,7 +181,7 @@ def aStarSearch(problem: SearchProblem, heuristic=nullHeuristic):
     util.raiseNotDefined()
 
 
-# Abbreviations
+# Abbreviationsf
 bfs = breadthFirstSearch
 dfs = depthFirstSearch
 astar = aStarSearch
